@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:spectromobi_app/app/routes/route_names.dart';
+import 'package:spectromobi_app/routes/route_names.dart';
 import 'package:spectromobi_app/widgets/app_bar.dart';
 import 'package:spectromobi_app/widgets/drawer.dart';
 
